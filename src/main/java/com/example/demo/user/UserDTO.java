@@ -1,9 +1,6 @@
-package com.example.demo;
+package com.example.demo.user;
 
-import lombok.Data;
-
-@Data
-public class User {
+public class UserDTO {
     private Long id;
     private String username;
     private String email;

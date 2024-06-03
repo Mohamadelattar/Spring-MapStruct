@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.user;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

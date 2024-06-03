@@ -1,6 +1,5 @@
-package com.example.demo;
+package com.example.demo.user;
 
-import org.mapstruct.control.MappingControl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
